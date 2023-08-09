@@ -1,4 +1,4 @@
 Pillow
 requests
-diffusers
+diffusers["torch"]
 open_clip_torch
